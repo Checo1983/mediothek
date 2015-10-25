@@ -1,0 +1,17 @@
+INSERT INTO `author`(`nname`, `vname`, `email`) 
+VALUES ("D'agata","John",""),
+("Dombrowski","Daniel",""),
+("Roubini","Nouriel",""),
+("Vladimir","Nabokov",""),
+("Bolaño","Roberto",""),
+("Currie Jr.","Ron",""),
+("García Marquez","Gabriel",""),
+("Cleave","Chris",""),
+("Amis","Martin",""),
+("McCarthy","Cormac",""),
+("Bojowald","Martin",""),
+("Beckwith","Elizabeth",""),
+("Halton","Eugene",""),
+("Huston","Charlie",""),
+("Becker","Gary",""),
+("Traig","Jennifer","")

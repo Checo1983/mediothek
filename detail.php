@@ -1,0 +1,12 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xs-12 col-md-9 detail">
+            <img class="pull-left" width="40%" src="<?php echo $_REQUEST["src"]; ?>" alt=""/>
+        <!--</div><br>
+        <div class="col-xs-12 col-md-5">-->
+            <h3>Title</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusantium, adipisci delectus ea eius impedit minima neque nobis odit quam qui quia quibusdam, quidem quisquam reiciendis, saepe totam ullam voluptatibus.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci consequuntur delectus dignissimos error exercitationem illum iusto, molestias officia officiis quam sunt totam vel voluptatum! Assumenda nulla quaerat suscipit ut veniam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aperiam architecto aut consequatur culpa dicta distinctio dolore facere incidunt inventore iste laborum minus nihil odio, quis sapiente tempora, voluptatibus voluptatum.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, cupiditate distinctio doloremque eius eligendi enim facere fugiat hic in iure libero minus mollitia provident quas repellendus tempora, temporibus. Molestiae, vel?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad autem itaque natus rem sapiente voluptates. Dicta dolor dolores eveniet, impedit in libero minus non numquam quis quisquam! Corporis, error fuga! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aliquid deleniti dolor dolore eos explicabo ipsa ipsum, natus nemo, nesciunt nobis odio optio possimus quam reiciendis saepe totam veniam. Nobis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab amet culpa deserunt dolorum esse eveniet itaque iure nulla perferendis recusandae sapiente, sint sit suscipit vero vitae, voluptas voluptatum. Pariatur, Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias amet asperiores, commodi dignissimos, esse expedita explicabo hic ipsum itaque libero maiores maxime nihil possimus quaerat quas ratione repellendus sint sunt?</p>
+            <a target="_blank" href="http://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=<?php echo $_REQUEST["name"]; ?>&rh=i%3Aaps%2Ck%3" class="btn btn-success visible-xs-block visible-sm-block visible-md visible-lg">BUY IT!</a>
+        </div>
+    </div>
+</div>

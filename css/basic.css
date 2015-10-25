@@ -1,0 +1,57 @@
+
+body {
+	color: #666;
+	background-color: #EAECEC;
+	margin: 20px;
+}
+
+#header, #navi, #content, #footer {
+	border: 1px solid #AAA;
+}
+
+.form_login {
+	display: block;
+	margin: 10px;
+}
+
+#header { 
+	height: 100px; 
+}
+
+#navi { 
+	height: 50px;
+}
+
+#navi ul {
+	list-style-type: none;
+   	text-align: center;
+}
+
+#navi li {
+	display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+}
+
+#navi a {
+	text-decoration: none;
+	color: black;
+}
+
+#navi a:hover {
+	cursor: pointer;
+	color: blue;
+}
+
+#content { 
+	min-height: 250px; 
+}
+
+#footer {
+	height: 50px;
+}
+
+#footer p {
+	font-weight: bold;
+	padding-left: 20px;
+}

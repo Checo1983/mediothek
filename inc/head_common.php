@@ -1,0 +1,5 @@
+<?php session_start(); ?>
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<!--<link rel="stylesheet" href="css/basic.css">-->
+<link rel="stylesheet" href="css/style.css">
